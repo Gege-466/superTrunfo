@@ -1,0 +1,32 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body {
+    background-color: black;
+}
+
+.principio {
+    color: white;
+    font-family:'Roboto Mono';
+    text-align: center;
+}
+
+button {
+    width: 170px;
+    height: 40px;
+    font-size: 19px;
+}
+
+img {
+    width: 500px;
+    margin-right: 60px;
+}
+
+p {
+    font-size: 23px;
+}
+
+.botaoJogar {
+    margin: 10px;
+}
